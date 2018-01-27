@@ -1,4 +1,3 @@
-
 import sys, fileinput, datetime
 from itertools import tee, chain, islice
 
