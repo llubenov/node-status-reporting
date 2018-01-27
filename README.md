@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Command Line Arguments
 
-Example:  codeEvaluation.py input.txt foo bar
+Example:  python codeEvaluation.py input.txt foo bar
 
 input.txt(required) Specifies the file that the program should run. 
 
