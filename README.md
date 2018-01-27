@@ -4,7 +4,7 @@ A program that receives notifications from a number of nodes on a network.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you understand how to run the program.
 
 ## Command Line Arguments
 
